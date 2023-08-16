@@ -1,0 +1,19 @@
+.form-page{
+  width: 100vw;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.column-form{
+  display:flex;
+  flex-direction: column;
+}
+
+nav{
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+}

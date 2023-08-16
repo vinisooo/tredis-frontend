@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  font-family: sans-serif;
+
+  box-sizing: border-box;
+}
+
+input {
+  border: none;
+  background-color: lightgrey;
+  border-radius: 4px;
+  padding: 15px 20px;
+}
+
+.input-box{
+  display:flex;
+  flex-direction: column;
+}
